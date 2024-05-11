@@ -1,6 +1,6 @@
 ### News
 
-+ [Publications]: May. 11, 2024, One paper was accepted by Scientific Reports(SR).
++ [Publications]: May. 11, 2024, One paper was accepted by Scientific Reports(SR).🎉
 
 ### Publications(Master period)
 
