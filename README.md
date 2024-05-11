@@ -5,10 +5,10 @@
 ### Publications
 
 #### 2024
-
+coming soon...
 #### 2023
 
-+ ##Siyuan Duan##,Weijun Pan,Yuanfei Leng,Xiaolei Zhang, Two ResNet Mini Architectures for Aircraft Wake Vortex Identification,##IEEE Access##.
++ **Siyuan Duan**,Weijun Pan,Yuanfei Leng,Xiaolei Zhang, Two ResNet Mini Architectures for Aircraft Wake Vortex Identification,**IEEE Access**.
 
 <!--
 **duansiyuanNB/duansiyuanNB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
