@@ -1,8 +1,8 @@
-### News
+## News
 
 + [Publications]: May. 11, 2024, One paper was accepted by **Scientific Reports(SR)**.🎉
 
-### Publications
+## Publications
 
 #### 2024
 + coming soon...
