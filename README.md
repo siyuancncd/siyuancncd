@@ -9,7 +9,7 @@ Hi～, welcome to my personal homepage, I'm Siyuan Duan.
 + coming soon...
 #### 2023
 
-+ **Siyuan Duan**,Weijun Pan,Yuanfei Leng,Xiaolei Zhang, [Two ResNet Mini Architectures for Aircraft Wake Vortex Identification](https://ieeexplore.ieee.org/document/10054052), **IEEE Access**.
++ **Siyuan Duan**,Weijun Pan,Yuanfei Leng,Xiaolei Zhang, [Two ResNet Mini Architectures for Aircraft Wake Vortex Identification](https://ieeexplore.ieee.org/document/10054052), **IEEE Access**.[code](https://github.com/siyuancncd/ResNet-mini-V1-V2)
 
 <!--
 **duansiyuanNB/duansiyuanNB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
