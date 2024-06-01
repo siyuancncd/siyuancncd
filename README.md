@@ -1,9 +1,9 @@
 Hi～, welcome to my personal homepage, I'm Siyuan Duan.
-## 🔥News:
+## News:
 
-+ [Publications]: May. 11, 2024, One paper was accepted by **Scientific Reports(SR)**.🎉
++ [Publications]: May. 11, 2024, One paper was accepted by **Scientific Reports(SR)**.
 
-## 📑Publications:
+## Publications:
 
 ### 2024
 
