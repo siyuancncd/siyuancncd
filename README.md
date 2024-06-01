@@ -7,7 +7,7 @@ Hi～, welcome to my personal homepage, I'm Siyuan Duan.
 
 ### 2024
 
-+ Xuan Zhang^1^, **Si-Yuan Duan**^1^, Si-Qi Wang^1^, Yao-Wen Chen, Shi-Xin Lai, Ji-Sheng Zou, Yan Cheng, Ji-Tian Guan, Ren-Hua Wu & Xiao-Lei Zhang, [A ResNet mini architecture for brain age prediction](https://www.nature.com/articles/s41598-024-61915-5), **Scientific Reports(SR)**.
++ Xuan Zhang<sup>1<sup>, **Si-Yuan Duan**^1^, Si-Qi Wang^1^, Yao-Wen Chen, Shi-Xin Lai, Ji-Sheng Zou, Yan Cheng, Ji-Tian Guan, Ren-Hua Wu & Xiao-Lei Zhang, [A ResNet mini architecture for brain age prediction](https://www.nature.com/articles/s41598-024-61915-5), **Scientific Reports(SR)**.
 ### 2023
 
 + **Siyuan Duan**,Weijun Pan,Yuanfei Leng,Xiaolei Zhang, [Two ResNet Mini Architectures for Aircraft Wake Vortex Identification](https://ieeexplore.ieee.org/document/10054052), **IEEE Access**.[[code]](https://github.com/siyuancncd/ResNet-mini-V1-V2)
