@@ -1,7 +1,5 @@
 Hi～, welcome to my personal homepage, I'm Siyuan Duan.
 ## News:
-
-+ [Publications]: May. 11, 2024, One paper was accepted by **Scientific Reports(SR)**.
 + [Publications]: Sep. 9, 2024, One paper was accepted by **Neural Network(NN)**.
 ## Publications:
 
