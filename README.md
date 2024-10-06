@@ -2,7 +2,7 @@ Hi～, welcome to my personal homepage, I'm Siyuan Duan.
 ## News:
 + [Publications]: Sep. 18, 2024, One paper was accepted by **Neural Network(NN)**.
 ## Publications:
-(1 denotes the equal contribution)
+(<sup>1</sup> denotes the equal contribution)
 
 ### 2024
 
