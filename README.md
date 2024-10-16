@@ -6,7 +6,7 @@ Hi～, welcome to my personal homepage, I'm Siyuan Duan.
 
 ### 2024
 
-+ Wenyuan Wu<sup>1</sup>, **Siyuan Duan**<sup>1</sup>, Yuan Sun,Yang Yu,Dong Liu, and Dezhong Peng, Deep Fuzzy Physics-Informed Neural Networks for Forward and Inverse PDE Problems, **Neural Networks(NN)** (中科院1区) [[code]](https://github.com/siyuancncd/FPINNs).
++ Wenyuan Wu<sup>1</sup>, **Siyuan Duan**<sup>1</sup>, Yuan Sun,Yang Yu,Dong Liu, and Dezhong Peng, [Deep Fuzzy Physics-Informed Neural Networks for Forward and Inverse PDE Problems](https://www.sciencedirect.com/science/article/pii/S0893608024006749), **Neural Networks(NN)** (中科院1区) [[code]](https://github.com/siyuancncd/FPINNs).
 
 + Xuan Zhang<sup>1</sup>, **Si-Yuan Duan**<sup>1</sup>, Si-Qi Wang<sup>1</sup>, Yao-Wen Chen, Shi-Xin Lai, Ji-Sheng Zou, Yan Cheng, Ji-Tian Guan, Ren-Hua Wu, and Xiao-Lei Zhang, [A ResNet mini architecture for brain age prediction](https://www.nature.com/articles/s41598-024-61915-5), **Scientific Reports(SR)** (JCR Q1).
 
