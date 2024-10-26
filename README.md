@@ -1,4 +1,7 @@
-  Hi～, welcome to my personal homepage, I'm Siyuan Duan.
+  Hi～, welcome to my homepage, I'm Siyuan Duan. 
+
++ [Google Scholar](https://scholar.google.com/citations?hl=en&user=Zck_72MAAAAJ)
+  
 ## News:
 + [Publications]: Sep. 18, 2024, One paper was accepted by **Neural Network(NN)**.
 ## Publications:
