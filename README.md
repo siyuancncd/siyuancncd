@@ -17,6 +17,9 @@
 
 ##
 
+![Duan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
+
+
 You are my ![Visitor Count](https://profile-counter.glitch.me/siyuancncd/count.svg) visitor
 
 <!--
