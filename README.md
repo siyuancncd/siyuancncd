@@ -1,5 +1,5 @@
-  Hi～, welcome to my homepage, I'm Siyuan Duan.
-
+<center> Hi～, welcome to my homepage, I'm Siyuan Duan.</center>
+ 
   + [Google Scholar](https://scholar.google.com/citations?hl=en&user=Zck_72MAAAAJ)
   
 ## News:
