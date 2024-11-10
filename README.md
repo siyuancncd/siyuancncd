@@ -4,7 +4,7 @@ Hi～ :wave: , welcome to my homepage, I'm **Siyuan Duan** :grimacing:. Welcome 
 + :page_facing_up:: Sep. 18, 2024, One paper was accepted by **Neural Network(NN)**. :v:
 
 
-## Publications:
+## Selected publications:
 (<sup>1</sup> denotes the equal contribution)
 
 ### 2024
