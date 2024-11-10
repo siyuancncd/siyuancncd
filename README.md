@@ -14,6 +14,11 @@
 
 + Xuan Zhang<sup>1</sup>, **Si-Yuan Duan**<sup>1</sup>, Si-Qi Wang<sup>1</sup>, Yao-Wen Chen, Shi-Xin Lai, Ji-Sheng Zou, Yan Cheng, Ji-Tian Guan, Ren-Hua Wu, and Xiao-Lei Zhang, [A ResNet mini architecture for brain age prediction](https://www.nature.com/articles/s41598-024-61915-5), **Scientific Reports(SR)** (JCR Q1).
 
+
+###
+
+![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+
 <!--
 **duansiyuanNB/duansiyuanNB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
