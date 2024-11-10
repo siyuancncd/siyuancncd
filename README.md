@@ -1,8 +1,5 @@
   Hi～, welcome to my homepage, I'm Siyuan Duan.
 
-
-  ![Google Scholar](https://img.shields.io/badge/tools-pycharm-green)(https://scholar.google.com/citations?hl=en&user=Zck_72MAAAAJ)
-
   + [Google Scholar](https://scholar.google.com/citations?hl=en&user=Zck_72MAAAAJ)
   
 ## News:
