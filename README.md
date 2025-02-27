@@ -2,6 +2,8 @@ Hi～ :wave: :star2: , welcome to my homepage. I'm **Siyuan Duan**. Welcome to m
 
 <span style="color:red;">I am currently looking for PhD admission in 26fall, so if you think I fit the bill, feel free to contact me at ddzz122773315@163.com or siyuanduancn@gmail.com.</span>
 
+
+这是<span style="color:red;">标红的文本</span>。
   
 ## News:
 + :page_facing_up:: Feb. 27, 2025, One paper was accepted by **CVPR2025**! :v:
