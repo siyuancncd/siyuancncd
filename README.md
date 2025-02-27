@@ -1,7 +1,7 @@
 Hi～ :wave: :star2: , welcome to my homepage, I'm **Siyuan Duan**. Welcome to my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Zck_72MAAAAJ).
   
 ## News:
-+ :page_facing_up:: Feb. 27, 2025, One paper was accepted by **CVPR2025**.! :v:
++ :page_facing_up:: Feb. 27, 2025, One paper was accepted by **CVPR2025**! :v:
 + :page_facing_up:: Sep. 18, 2024, One paper was accepted by **Neural Network(NN)**. :v:
 
 
