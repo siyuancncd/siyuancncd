@@ -23,7 +23,7 @@ I am actively seeking a PhD position for Fall 2026 entry. If you believe my back
 
 + Xuan Zhang<sup>1</sup>, **Si-Yuan Duan**<sup>1</sup>, Si-Qi Wang<sup>1</sup>, Yao-Wen Chen, Shi-Xin Lai, Ji-Sheng Zou, Yan Cheng, Ji-Tian Guan, Ren-Hua Wu, and Xiao-Lei Zhang, [A ResNet mini architecture for brain age prediction](https://www.nature.com/articles/s41598-024-61915-5), **Scientific Reports(SR)** (JCR Q1).
 
-The full paper list can be found in [Google Scholar](https://scholar.google.com/citations?hl=en&user=Zck_72MAAAAJ).
+The other papers can be found in [Google Scholar](https://scholar.google.com/citations?hl=en&user=Zck_72MAAAAJ).
 
 <!--
 **duansiyuanNB/duansiyuanNB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
