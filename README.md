@@ -1,4 +1,4 @@
-Hi～ :wave: :star2: , welcome to my homepage. I'm **Siyuan Duan**. Welcome to my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Zck_72MAAAAJ).
+Hi～ :wave: :star2: , welcome to my homepage. I'm **Siyuan Duan**. I'm currently a master's student at the School of Computer Science, Sichuan University, fortunately advised by Prof. Dezhong Peng and Prof. Peng Hu.
 
 I am currently looking for PhD admission in 26fall, so if you think I fit the bill, feel free to contact me at ddzz122773315@163.com or siyuanduancn@gmail.com.
 
@@ -22,7 +22,7 @@ I am currently looking for PhD admission in 26fall, so if you think I fit the bi
 
 + Xuan Zhang<sup>1</sup>, **Si-Yuan Duan**<sup>1</sup>, Si-Qi Wang<sup>1</sup>, Yao-Wen Chen, Shi-Xin Lai, Ji-Sheng Zou, Yan Cheng, Ji-Tian Guan, Ren-Hua Wu, and Xiao-Lei Zhang, [A ResNet mini architecture for brain age prediction](https://www.nature.com/articles/s41598-024-61915-5), **Scientific Reports(SR)** (JCR Q1).
 
-
+The full paper list can be found in [Google Scholar](https://scholar.google.com/citations?hl=en&user=Zck_72MAAAAJ).
 
 <!--
 **duansiyuanNB/duansiyuanNB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
