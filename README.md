@@ -8,6 +8,10 @@ Hi～ :wave: :star2: , welcome to my homepage, I'm **Siyuan Duan**. Welcome to m
 ## Selected publications:
 (<sup>1</sup> denotes the equal contribution)
 
+### 2025
+
++ **Siyuan Duan**, Yuan Sun, Dezhong Peng, Zheng Liu, Xiaomin Song, and Peng Hu, Fuzzy Multimodal Learning for Trusted Cross-modal Retrieval, **CVPR 2025** (CCF-A) [[code]](https://github.com/siyuancncd/FUME).
+
 ### 2024
 
 + Wenyuan Wu<sup>1</sup>, **Siyuan Duan**<sup>1</sup>, Yuan Sun,Yang Yu,Dong Liu, and Dezhong Peng, [Deep Fuzzy Physics-Informed Neural Networks for Forward and Inverse PDE Problems](https://www.sciencedirect.com/science/article/pii/S0893608024006749), **Neural Networks(NN)** (CCF-B) [[code]](https://github.com/siyuancncd/FPINNs).
