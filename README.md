@@ -1,12 +1,11 @@
 Hi～ :wave: :star2: , welcome to my homepage. I'm **Siyuan Duan**. Welcome to my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Zck_72MAAAAJ).
 
-<span style="color:red;">I am currently looking for PhD admission in 26fall, so if you think I fit the bill, feel free to contact me at ddzz122773315@163.com or siyuanduancn@gmail.com.</span>
+I am currently looking for PhD admission in 26fall, so if you think I fit the bill, feel free to contact me at ddzz122773315@163.com or siyuanduancn@gmail.com.
 
-![Red Text](https://via.placeholder.com/150/FF0000/FFFFFF?text=Red+Text)
 
 ## News:
-+ :page_facing_up:: Feb. 27, 2025, One paper was accepted by **CVPR2025**! :v:
-+ :page_facing_up:: Sep. 18, 2024, One paper was accepted by **Neural Network(NN)**. :v:
++ :page_facing_up:: Feb. 27, 2025, One paper was accepted by **CVPR2025**! Thanks to all coauthors! :v:
++ :page_facing_up:: Sep. 18, 2024, One paper was accepted by **Neural Network(NN)**. Thanks to all coauthors! :v:
 
 
 ## Selected publications:
