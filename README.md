@@ -1,4 +1,4 @@
-Hi～ :wave: :star2: , welcome to my homepage. I'm **Siyuan Duan**. I'm currently a master's student at the School of Computer Science, Sichuan University, fortunately advised by Prof. [\underline{Dezhong Peng}](https://cs.scu.edu.cn/info/1282/13563.htm) \& Prof. [\underline{Peng Hu}](https://penghu-cs.github.io).
+Hi～ :wave: :star2: , welcome to my homepage. I'm **Siyuan Duan**. I'm currently a master's student at the School of Computer Science, Sichuan University, fortunately advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1282/13563.htm) \& Prof. [Peng Hu](https://penghu-cs.github.io).
 
 I am currently looking for PhD admission in 26fall, so if you think I fit the bill, feel free to contact me at ddzz122773315@163.com or siyuanduancn@gmail.com.
 
