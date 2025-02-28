@@ -5,7 +5,7 @@ Hi～ :wave: :star2: , welcome to my homepage. I'm **Siyuan Duan**. I'm currentl
 
 
 ## News:
-+ :page_facing_up:: Feb. 27, 2025, One paper was accepted by **CVPR2025**! :v: Thanks to all coauthors.
++ :page_facing_up:: Feb. 27, 2025, One paper was accepted by **CVPR2025**! (Acceptance rate = 22.1%) :v: Thanks to all coauthors.
 + :page_facing_up:: Sep. 18, 2024, One paper was accepted by **Neural Network(NN)**. :v: Thanks to all coauthors.
 
 
